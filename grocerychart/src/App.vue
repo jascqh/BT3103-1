@@ -10,7 +10,7 @@
 //Registering components Locally
 import Header from './components/Header.vue'
 import Footer from './components/Footer.vue'
-//import PageContent from './components/PageContent.vue'
+import PageContent from './components/PageContent.vue'
 
 export default {
   name: 'App',

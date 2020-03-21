@@ -5,6 +5,7 @@
           <ul>
              <li><router-link to="/" exact>List</router-link></li>
              <li><router-link to="/add" exact>Add Item</router-link></li>
+             <li><router-link to="/data" exact>Data visualisation</router-link></li>
           </ul>
         </nav>
   </div>
